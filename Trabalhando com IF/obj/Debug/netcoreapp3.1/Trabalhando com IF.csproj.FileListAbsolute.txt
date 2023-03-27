@@ -1,0 +1,14 @@
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\obj\Debug\netcoreapp3.1\Trabalhando com IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\obj\Debug\netcoreapp3.1\Trabalhando com IF.AssemblyInfoInputs.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\obj\Debug\netcoreapp3.1\Trabalhando com IF.AssemblyInfo.cs
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\obj\Debug\netcoreapp3.1\Trabalhando com IF.csproj.CoreCompileInputs.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\bin\Debug\netcoreapp3.1\Trabalhando com IF.exe
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\bin\Debug\netcoreapp3.1\Trabalhando com IF.deps.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\bin\Debug\netcoreapp3.1\Trabalhando com IF.runtimeconfig.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\bin\Debug\netcoreapp3.1\Trabalhando com IF.runtimeconfig.dev.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\bin\Debug\netcoreapp3.1\Trabalhando com IF.dll
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\bin\Debug\netcoreapp3.1\Trabalhando com IF.pdb
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\obj\Debug\netcoreapp3.1\Trabalhando com IF.dll
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\obj\Debug\netcoreapp3.1\Trabalhando com IF.pdb
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\obj\Debug\netcoreapp3.1\Trabalhando com IF.genruntimeconfig.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\Trabalhando com IF\obj\Debug\netcoreapp3.1\Trabalhando com IF.csproj.AssemblyReference.cache

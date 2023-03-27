@@ -1,0 +1,14 @@
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\bin\Debug\netcoreapp3.1\For-With-break.exe
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\bin\Debug\netcoreapp3.1\For-With-break.deps.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\bin\Debug\netcoreapp3.1\For-With-break.runtimeconfig.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\bin\Debug\netcoreapp3.1\For-With-break.runtimeconfig.dev.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\bin\Debug\netcoreapp3.1\For-With-break.dll
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\bin\Debug\netcoreapp3.1\For-With-break.pdb
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\obj\Debug\netcoreapp3.1\For-With-break.csproj.AssemblyReference.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\obj\Debug\netcoreapp3.1\For-With-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\obj\Debug\netcoreapp3.1\For-With-break.AssemblyInfoInputs.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\obj\Debug\netcoreapp3.1\For-With-break.AssemblyInfo.cs
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\obj\Debug\netcoreapp3.1\For-With-break.csproj.CoreCompileInputs.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\obj\Debug\netcoreapp3.1\For-With-break.dll
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\obj\Debug\netcoreapp3.1\For-With-break.pdb
+C:\Users\evandross1\source\repos\CSharpe Estutos\For-With-break\obj\Debug\netcoreapp3.1\For-With-break.genruntimeconfig.cache

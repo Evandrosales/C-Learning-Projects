@@ -1,0 +1,13 @@
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\bin\Release\netcoreapp3.1\CriadoVariaveis.exe
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\bin\Release\netcoreapp3.1\CriadoVariaveis.deps.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\bin\Release\netcoreapp3.1\CriadoVariaveis.runtimeconfig.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\bin\Release\netcoreapp3.1\CriadoVariaveis.runtimeconfig.dev.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\bin\Release\netcoreapp3.1\CriadoVariaveis.dll
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\bin\Release\netcoreapp3.1\CriadoVariaveis.pdb
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\obj\Release\netcoreapp3.1\CriadoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\obj\Release\netcoreapp3.1\CriadoVariaveis.AssemblyInfoInputs.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\obj\Release\netcoreapp3.1\CriadoVariaveis.AssemblyInfo.cs
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\obj\Release\netcoreapp3.1\CriadoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\obj\Release\netcoreapp3.1\CriadoVariaveis.dll
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\obj\Release\netcoreapp3.1\CriadoVariaveis.pdb
+C:\Users\evandross1\source\repos\CSharpe Estutos\CriadoVariaveis\obj\Release\netcoreapp3.1\CriadoVariaveis.genruntimeconfig.cache

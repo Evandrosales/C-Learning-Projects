@@ -1,0 +1,14 @@
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.exe
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.deps.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.runtimeconfig.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.runtimeconfig.dev.json
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.dll
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.pdb
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.csproj.AssemblyReference.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.AssemblyInfoInputs.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.AssemblyInfo.cs
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.csproj.CoreCompileInputs.cache
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.dll
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.pdb
+C:\Users\evandross1\source\repos\CSharpe Estutos\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.genruntimeconfig.cache
